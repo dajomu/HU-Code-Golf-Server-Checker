@@ -1,0 +1,12 @@
+[{
+"id": "my-web-app",
+"type": "web",
+"name": "My Web Application",
+"alert": 10,
+"url": "http://healthunlocked.com"
+},{
+"id": "my-daemon-service",
+"type": "daemon",
+"name": "My Console Application",
+"alert": 10
+}]
